@@ -1,0 +1,4 @@
+#Wed Mar 03 23:50:24 MSK 2021
+base.0=E\:\\projects\\Spinitdev_lesson01\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

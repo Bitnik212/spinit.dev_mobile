@@ -1,0 +1,2 @@
+com/example/spinitdev_lesson01/BuildConfig.java
+ com.example.spinitdev_lesson01.BuildConfig
